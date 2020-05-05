@@ -58,15 +58,7 @@ links com material adicional sobre os tópicos e pacotes abordados.
 
 #### Para quem este material se destina?
 
-Este tutorial se destina a usuários com conhecimento básico a
-intermediário de R. Estou assumindo que você é capaz de limpar dados
-com dplyr, plotar gráficos básicos com ggplot e rodar estatísticas
-descritivas com a base do R. Recomendo que vá lendo e rodando os códigos
-de forma sequencial para compreender o raciocínio por trás das
-atividades. Você pode baixar o script aqui “COLOCAR O LINK PARA O
-GITHUB”, mas sugiro ir digitando o código e incluindo comentários no
-seu script com suas próprias palavras. Por experiência própria, acho que
-esta é a melhor forma de aprender a programar.
+Este tutorial se destina a usuários com conhecimento básico a intermediário de R. Estou assumindo que você é capaz de limpar dados com dplyr, plotar gráficos básicos com ggplot e rodar estatísticas descritivas com a base do R. Recomendo que vá lendo e rodando os códigos de forma sequencial para compreender o raciocínio por trás das atividades. Você pode fazer download do script, mas sugiro ir digitando o código e incluindo comentários no seu script com suas próprias palavras. Por experiência própria, acho que esta é a melhor forma de aprender a programar. 
 
 #### Como o material está estruturado?
 
