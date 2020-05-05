@@ -9,8 +9,5 @@ Por hora você pode estudar este material das seguintes formas:
 * Baixar este repositório, abrir o documento **tutorial_rfuncional.Rmd** em seu RStudio e ir lendo e rodando os códigos;
 * Ler diretamente neste repositório clicando em **tutorial_rfuncional.md**
 
-### Próximos passos
 
-* Tornar o tutorial interativo utilizando learnr 
-* Criar um pacote para o usuário realizar o tutorial interativo localmente
 
