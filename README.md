@@ -8,6 +8,8 @@ Você pode estudar este material das seguintes formas:
 * Baixar este repositório e ler o pdf **tutorial_rfuncional.pdf** em seu computador;
 * Baixar este repositório, abrir o documento **tutorial_rfuncional.Rmd** em seu RStudio e ir lendo e rodando os códigos;
 * Ler diretamente neste repositório clicando em **tutorial_rfuncional.md**
+* Ler o blog post em minha página acessando (aqui)[https://nataliablock.rbind.io/post/automatizar/]
+
 
 
 
